@@ -64,18 +64,6 @@ Example:- /set_caption 📕 File Name: {filename}
 
 ✏️ <b><u>HOW TO RENAME A FILE</u></b>
 •> send any file and click rename option and type new file name and \n send select [ document, video, audio ]👈 choice this.
-ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://www.instagram.com/LazyDeveloperrr>Direct Message</a>
+ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://www.instagram.com/im_sukuna_yuji>Direct Message</a>
 """
 
-#⚠️ don't remove our credits 🙏😢😢
-    DEV_TXT = """
-<b><u>Special Thanks & Developers</b></u> 
-
-» 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 : <a href=https://www.youtube.com/channel/UCY-iDra0x2hdd9PdHKcZkRw>Watch Tutorial</a>
-
-• 😈 <a href=https://github.com/LazyDeveloperr>LazyDeveloper Github</a>
-• 😈 <a href=https://t.me/LazyDeveloper>LazyDeveloper Tg Channel</a>
-• 😈 <a href=https://t.me/mRiderDM>Direct-Msg-TG</a>
-• 😈 <a href=https://t.me/real_MoviesAdda1>Join Movies Adda</a>
-• 😈 <a href=https://t.me/GitHub_noob>Thanks- Github Noob</a>
-"""
